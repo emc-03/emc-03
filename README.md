@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emc-03
-- 👀 I’m interested in Web Design
-- 🌱 I’m currently learning HTML/CSS/JS
+- 👀 I’m interested in Web Design, Back-End development and Cyber Security.
+- 🌱 I’m currently learning HTML/CSS/JS/C#
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
