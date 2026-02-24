@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @emc-03
-- 👀 I’m interested in Web Design, Back-End development and Cyber Security.
-- 🌱 I’m currently learning HTML/CSS/JS/C#
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+Software Engineering student in final semester with prior experience as a Senior Systems Engineer.
+Focused on DevOps, cloud infrastructure, and automation.
 
-<!---
-emc-03/emc-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building CI/CD pipelines, containerized .NET applications, and infrastructure as code using AWS and Azure.
+
+AWS Certified Cloud Practitioner.
+Actively developing hands-on cloud and automation projects.
