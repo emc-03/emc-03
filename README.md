@@ -7,3 +7,9 @@ Technical Focus
 	•	Docker & containerization
 	•	Bash & Python automation
 	•	.NET application development
+
+Current Focus
+	•	Strengthening CI/CD automation patterns
+	•	Expanding cloud deployment experience
+	•	Building end-to-end DevOps lab projects
+
